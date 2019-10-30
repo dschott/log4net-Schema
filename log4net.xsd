@@ -165,7 +165,7 @@ Legal:
         <xs:element minOccurs="0" maxOccurs="1" name="maximumFileSize" type="maximumFileSize" />
         <xs:element minOccurs="0" maxOccurs="1" name="parameter" type="parameter" />
         <xs:element minOccurs="0" maxOccurs="1" name="rollingStyle" type="rollingStyle" />
-		<xs:element minOccurs="0" maxOccurs="1" name="preserveLogFileNameExtension" type="preserveLogFileNameExtension" />
+        <xs:element minOccurs="0" maxOccurs="1" name="preserveLogFileNameExtension" type="preserveLogFileNameExtension" />
         <xs:element minOccurs="0" maxOccurs="1" name="staticLogFileName" type="staticLogFileName" />
         <xs:element minOccurs="0" maxOccurs="1" name="from" type="from" />
         <xs:element minOccurs="0" maxOccurs="1" name="priority" type="priority" />
